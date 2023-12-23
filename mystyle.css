@@ -14,18 +14,21 @@ p {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  text-align: center;
+}
+
+header {
+  text-align: left;
 }
 
 h1 {
   font-size: xx-large;
   font-weight: bold;
-  text-align: left;
   text-decoration-skip-ink: all;
 }
 
 h2 {
   font-size:xx-large;
-  text-align: left;
   margin-block-start: 0.3em;
   margin-block-end: 0.3em;
   margin-inline-start: 0px;
@@ -42,7 +45,7 @@ h3 {
 
 .textbox {
   background: rgb(253,228,242);
-  display: flex;
+  display: inline-flex
   flex-direction: column;
   justify-content: center;
   align-items: left;
@@ -86,7 +89,7 @@ dd {
   font-size: medium;
   font-style: italic;
   font-weight: 100;
-  margin-left: 40px;
+  margin-left: 10px;
 
 }
 
