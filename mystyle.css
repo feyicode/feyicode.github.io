@@ -42,7 +42,7 @@ h3 {
 
 .textbox {
   background: rgb(253,228,242);
-  display:block;
+  display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: left;
