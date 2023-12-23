@@ -45,10 +45,10 @@ h3 {
 
 .textbox {
   background: rgb(253,228,242);
-  display: inline-flex
+  display: inline-flex;
   flex-direction: column;
   justify-content: center;
-  align-items: left;
+  align-items: center;
   background-clip: border-box;
 }
 
