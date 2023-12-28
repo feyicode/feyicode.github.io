@@ -121,12 +121,12 @@ a:visited {
   text-decoration: none;
 }
 
-footer .social i {
-  font-size: 140px;
-}
-
 footer .social a {
   color: black;
+}
+
+i {
+  font-size: 40px;
 }
 
 .icon {
