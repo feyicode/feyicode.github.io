@@ -125,16 +125,6 @@ footer .social a {
   color: black;
 }
 
-i {
-  font-size: xx-large;
-}
-
-.icon {
-  width: 40px;
-  height: 40px;
-  position: absolute;
-}
-
 .columnLeft {
   float: left;
   width: 50%;
