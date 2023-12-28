@@ -121,6 +121,10 @@ a:visited {
   text-decoration: none;
 }
 
+footer .social i {
+  font-size: 40px;
+}
+
 footer .social a {
   color: black;
 }
@@ -198,8 +202,4 @@ footer .social a {
     transform: translateY( 50px) scale(1); 
     border-radius: 0%;
   }
-}
-
-i {
-  font-size: 40px;
 }
