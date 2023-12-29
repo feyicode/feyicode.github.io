@@ -136,7 +136,7 @@ footer .social a {
 }
 
 .demo {
-  width: max-content;
+  width: fit-content;
   height: 60%;
   padding-left: 20px;
 }
