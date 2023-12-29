@@ -131,30 +131,21 @@ footer .social a {
   position: absolute;
 }
 
-.columnLeft {
+.column {
   float: left;
   width: 50%;
-}
-.columnRight {
-  float: right;
-  width: 50%;
-}
-
-@media only screen and (max-width: 629px) {
-  .columnLeft {
-    float: none ;
-    width: 100% ;
-  }
-  .columnRight {
-    float: none ;
-    width: 100% ;
-  }
 }
 
 .row:after {
   content: "";
   display: table;
   clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 
 .demo {
