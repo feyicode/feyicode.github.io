@@ -133,6 +133,9 @@ footer .social a {
   .column {
     width: 100%;
   }
+  .left {
+    margin-left: 0;
+  }
 }
 
 .demo {
