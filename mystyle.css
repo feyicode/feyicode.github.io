@@ -151,6 +151,12 @@ footer .social a {
   }
 }
 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 .demo {
   width:50%;
   height:40%;
